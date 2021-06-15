@@ -1,4 +1,6 @@
 pip install -r requirements.txt
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+
 
 npm install localtunnel
 
